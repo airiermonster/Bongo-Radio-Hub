@@ -1,6 +1,6 @@
 # Bongo Radio Hub
 
-![Bongo Radio Hub Logo](https://github.com/airiermonster/Bongo-Radio-Hub/blob/main/assets/logo.png)
+![Bongo Radio Hub Logo](./assets/bongo_radio_hub_logo.jpeg)
 
 Welcome to **Bongo Radio Hub**, your home for streaming the best Bongo beats and radio stations from Tanzania! This project was developed as part of a Computer Science curriculum at Arusha Technical College (ATC) to explore web design and development while providing a fun and accessible platform for streaming publicly available radio stations.
 
